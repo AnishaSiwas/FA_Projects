@@ -15,7 +15,7 @@ This file contains LSTM Model for the Hourly Energy Consumption dataset.
 ### Dataset Information
 PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in the United States. It is part of the Eastern Interconnection grid operating an electric transmission system serving all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.
 
-File contains following: Importing Libraries, Loading Dataset, Normalizing Data, Exploring Dataset, Exploratory Data Analysis and Data Vizualization, Data Pre-processing, Preparing data for training the RNN models, Building a SIMPLE RNN model, Building an LSTM model, Comparing predictions made by simple RNN, LSTM model by plotting data in a single graph and Conclusion
+File includes following: Importing Libraries, Loading Dataset, Normalizing Data, Exploring Dataset, Exploratory Data Analysis and Data Vizualization, Data Pre-processing, Preparing data for training the RNN models, Building a SIMPLE RNN model, Building an LSTM model, Comparing predictions made by simple RNN, LSTM model by plotting data in a single graph and Conclusion
 
 ### Conslusion
 R^2 score for simple RNN model is 0.945 and for LSTM model is 0.956. As best possible R^2 score is 1.0 which is considered as best prediction and a score of 0.0 is considered as imperfect prediction therefore, it can be concluded that R^2 score of LSTM model is slightly better than that of simple RNN model.
