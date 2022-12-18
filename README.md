@@ -2,7 +2,8 @@
 
 This repository contains .ipynb file of Functional Analytics end-term projects.
 
-##Amazon Fine Food Review file contains sentiment analysis for the same dataset and includes following:
+# Amazon Fine Food Review 
+This file contains sentiment analysis for the same dataset and includes following:
 Importing Libraries
 Loading Dataset
 Exploring Dataset
